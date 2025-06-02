@@ -26,6 +26,13 @@ export default defineNuxtConfig({
     },
     icon: {
         clientBundle: {
+            icons: [
+                'simple-icons:linkedin',
+                'simple-icons:youtube',
+                'simple-icons:facebook',
+                'simple-icons:instagram',
+                'simple-icons:youtube',
+            ],
             scan: true,
             sizeLimitKb: 256,
         },
