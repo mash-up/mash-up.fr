@@ -24,7 +24,7 @@ const cityNavigation = computed(() => {
 
 const cities = useState('cities')
 
-const { data: page } = await useAsyncData(() => `${cityNavigation.value?.stem}-homepage`, () => queryCollection('pages').where('path', '=', cityNavigation.value?.to).first(), {
+const { data: page } = await useAsyncData(`${cityNavigation.value?.stem}-homepage`, () => queryCollection('pages').where('path', '=', cityNavigation.value?.to).first(), {
   watch: [cityNavigation],
 })
 
