@@ -30,5 +30,6 @@
       "@sentry/cli",
       "vue-demi"
     ]
-  }
+  },
+  "packageManager": "pnpm@10.11.1"
 }
