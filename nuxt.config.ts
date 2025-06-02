@@ -24,4 +24,10 @@ export default defineNuxtConfig({
             api: 'https://api.nuxt.studio',
         },
     },
+    icon: {
+        clientBundle: {
+            scan: true,
+            sizeLimitKb: 256,
+        },
+    }
 })
