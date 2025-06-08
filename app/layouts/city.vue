@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import DefaultLayout from '../layouts/default.vue'
 import type { ContentNavigationItem } from '@nuxt/content'
-import { mapContentNavigation } from "~/utils/content";
+import { mapContentNavigation } from "@nuxt/ui-pro/utils/content";
 
 const navigation = inject<Ref<ContentNavigationItem[]>>('navigation', ref([]))
 const route = useRoute()
