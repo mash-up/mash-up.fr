@@ -1,0 +1,1 @@
+import{C as o,q as c,I as n,J as _,E as u,h as i,K as p}from"#entry";const f=o({__name:"[city]",setup(r){const e=c(),s=n("city");return _(e,t=>{s.value=t.path.slice(1).split("/").shift()},{immediate:!0}),(t,m)=>{const a=p;return i(),u(a)}}});export{f as default};
