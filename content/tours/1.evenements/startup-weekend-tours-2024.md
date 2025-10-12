@@ -4,4 +4,4 @@ date: 2024-04-26
 location: MAME
 ---
 
-Plus d'information sur le site officiel : [https://swtours.fr/](https://swtours.fr/)
+Plus d'informations sur le site officiel : [https://swtours.fr/](https://swtours.fr/)
