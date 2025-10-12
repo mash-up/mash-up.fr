@@ -38,6 +38,8 @@ Mais ce n’est surtout pas que des joueurs, dans le e-sport on retrouve des jur
 
 Alors inscrivez-vous à cet événement et venez découvrir tout ça !
 
+:speakers
+
 ### Pitch
 
 **Une seule règle : ils avaient 3 minutes pour convaincre, avec une unique slide comme support !**

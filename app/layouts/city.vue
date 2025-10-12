@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import DefaultLayout from '../layouts/default.vue'
 import type { ContentNavigationItem } from '@nuxt/content'
-import { mapContentNavigation } from "@nuxt/ui-pro/utils/content";
+import { mapContentNavigation } from "@nuxt/ui/utils/content";
 
 const navigation = inject<Ref<ContentNavigationItem[]>>('navigation', ref([]))
 const route = useRoute()
@@ -33,6 +33,12 @@ const social = computed(() => Object.entries(page.value?.meta?.social ?? []).map
   to: i,
   name: key.charAt(0).toUpperCase() + key.slice(1),
 })))
+
+useHead({
+  titleTemplate: (titleChunk) => {
+    return titleChunk ? `${titleChunk} - Mash Up ${cityNavigation.value?.label}` : `Mash Up ${cityNavigation.value?.label}`
+  },
+})
 </script>
 
 <template>

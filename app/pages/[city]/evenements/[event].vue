@@ -2,6 +2,11 @@
 const route = useRoute()
 const city = useState('city')
 const { data: event } = await useAsyncData(route.path, () => queryCollection('events').where('path', '=', route.path).first())
+
+useSeoMeta({
+  title: event.value?.title,
+  description: event.value?.description
+})
 </script>
 
 <template>

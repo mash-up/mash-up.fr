@@ -2,11 +2,8 @@
 export default defineNuxtConfig({
     compatibilityDate: '2024-04-03',
     devtools: { enabled: true },
-    future: {
-        compatibilityVersion: 4,
-    },
     modules: [
-        '@nuxt/ui-pro',
+        '@nuxt/ui',
         '@nuxt/content',
         '@nuxt/scripts',
     ],
@@ -28,7 +25,6 @@ export default defineNuxtConfig({
         clientBundle: {
             icons: [
                 'simple-icons:linkedin',
-                'simple-icons:youtube',
                 'simple-icons:facebook',
                 'simple-icons:instagram',
                 'simple-icons:youtube',

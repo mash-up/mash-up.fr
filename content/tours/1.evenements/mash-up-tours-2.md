@@ -1,14 +1,16 @@
 ---
-title: "Mash Up Tours #1 : E-Sport, entreprendre dans un marché d'un milliard d'€ ?"
-date: 2019-04-24
+title: "Mash Up Tours #2 : Je fais du MADE IN France, suis-je FOU ?"
+date: 2019-10-15
 location: LeHQ
 ---
 
-Après son succès à Nantes et Paris le Mash Up débarque à Tours ! Inscris toi vite pour ce premier évènement sur le thème du E-Sport !
+C'est parti pour le Mash Up #2 ! Chose promis chose due, cette fois on va parler du Made In France. 3 intervenants bleu blanc rouge au RDV !
 
 #### Whaaaat, tu ne connais pas le Mash-Up ???
 
-Bon ok on te pardonne pour cette fois, lis tout ça et tu n’auras plus d’excuse. Et à ton tour tu pourras dire fièrement « Whaaaat, tu ne connais pas le Mash-up ??? ».
+(Bon si tu connais parce que tu étais déjà là au Mash Up #1, tu peux passer direct sous les 🆙🆙)
+
+On te pardonne pour cette fois, lis tout ça et tu n’auras plus d’excuse. Et à ton tour tu pourras dire fièrement « Whaaaat, tu ne connais pas le Mash-up ??? ».
 
 Alors, le Mash-Up, c’est un concept Nantais (et aussi de Paris) importé à Tours et adapté à l’écosystème local !
 
@@ -26,17 +28,19 @@ Et bien sûr tu auras la possibilité d’échanger avec des individus passionn�
 
 ::steps
 
-### E-SPORT : entreprendre dans un marché d’1 milliard
+### Je fais du MADE IN France, suis-je FOU ?
 
-5 millions de consommateurs en France, 380 millions de spectateurs dans le monde, un marché d’1 milliard, des milliers d’emplois, 2 millions de joueurs réguliers en France.
+"We are in France, we speak French" comme nous disait si bien notre nounours préféré Sébastien Chabal.
 
-Alors oui l’ESPORT cela ne signifie pas « jeunes de 13 ans jouant à Mario Kart sous une couette »
+Mais aujourd'hui cela ne suffit plus, faut-il aussi consommer français ? Fabriquer en France ? Ne jurer que par le Made In France ?
 
-L’ESPORT c’est des centaines de startup, PME et multinationales, des fonds d’investissement, des écoles, des tournois en stade etc…
+77% Des français se déclarent prêts à payer plus cher pour acheter Français ! (IFOP Pour ATOL, janvier 2013) Pourquoi ? Qu'associent les Français à un produit Made In France ? Qualité ? Ecologie ? Soutient aux entreprises ? Acte utile ? Garantie ?
 
-Mais ce n’est surtout pas que des joueurs, dans le e-sport on retrouve des juristes, des psychologues, des marketeux, des communiquants, des entrepreneurs, des coachs, des hommes et des femmes…
+Vous voulez un autre chiffre ? 92% Des Français considèrent important qu’une entreprise indique à ses consommateurs que ses produits ont été fabriqués en France par l’apposition d’une mention sur le produit. Nos 3 intervenants nous expliquerons leur choix et leur stratégie à ce niveau 😊
 
-Alors inscrivez-vous à cet événement et venez découvrir tout ça !
+Mais bien sûr hors de question de parler de chiffre toute la soirée, alors de quoi parlerons-nous ? D'humain, d'histoire, de rencontres, de choix, de conviction, de succes story, d'ambition, de vision d'avenir, et bien d'autres choses et sujets !
+
+:speakers
 
 ### Pitch
 

@@ -1,14 +1,16 @@
 ---
-title: "Mash Up Tours #1 : E-Sport, entreprendre dans un marché d'un milliard d'€ ?"
-date: 2019-04-24
+title: "Mash Up Tours #3 : La FOODTECH ramène sa fraise"
+date: 2020-01-28
 location: LeHQ
 ---
 
-Après son succès à Nantes et Paris le Mash Up débarque à Tours ! Inscris toi vite pour ce premier évènement sur le thème du E-Sport !
+C'est parti pour le Mash Up #3 ! Cette fois-ci c'est la FOODTECH qui ramène sa fraise au Mash-Up !
 
 #### Whaaaat, tu ne connais pas le Mash-Up ???
 
-Bon ok on te pardonne pour cette fois, lis tout ça et tu n’auras plus d’excuse. Et à ton tour tu pourras dire fièrement « Whaaaat, tu ne connais pas le Mash-up ??? ».
+(Bon si tu connais parce que tu étais déjà là aux Mash Up #1 et #2, tu peux passer direct sous les 🆙🆙)
+
+On te pardonne pour cette fois, lis tout ça et tu n’auras plus d’excuse. Et à ton tour tu pourras dire fièrement « Whaaaat, tu ne connais pas le Mash-up ??? ».
 
 Alors, le Mash-Up, c’est un concept Nantais (et aussi de Paris) importé à Tours et adapté à l’écosystème local !
 
@@ -26,17 +28,19 @@ Et bien sûr tu auras la possibilité d’échanger avec des individus passionn�
 
 ::steps
 
-### E-SPORT : entreprendre dans un marché d’1 milliard
+### La FOODTECH ramène sa fraise
 
-5 millions de consommateurs en France, 380 millions de spectateurs dans le monde, un marché d’1 milliard, des milliers d’emplois, 2 millions de joueurs réguliers en France.
+"Joie (nom féminin, singulier) : ce moment où l'on voit arriver notre plat au restaurant."
 
-Alors oui l’ESPORT cela ne signifie pas « jeunes de 13 ans jouant à Mario Kart sous une couette »
+Parce que nous aimons tous manger, parce que nous aimons tous BIEN manger, MIEUX manger, mais aussi parce que cela devient de plus en plus compliqué, la technologie est-elle une solution pérenne pour notre alimentation ?
 
-L’ESPORT c’est des centaines de startup, PME et multinationales, des fonds d’investissement, des écoles, des tournois en stade etc…
+Restaurants fantômes, applications pour se faire livrer nos plats préférés ou encore robots-agriculteurs, les startups FoodTech françaises ont augmentées en 2018, en passant de 136M€ en 2017 à 227M€ ! Cette tendance place la France en tête du classement européen ! 🥇🇫🇷
 
-Mais ce n’est surtout pas que des joueurs, dans le e-sport on retrouve des juristes, des psychologues, des marketeux, des communiquants, des entrepreneurs, des coachs, des hommes et des femmes…
+Mais bien sûr hors de question de parler de chiffre toute la soirée, alors de quoi parlerons-nous ? D'humains, d'histoires, de rencontres, de choix, de convictions, de succes stories, d'ambition, de visions d'avenir, et bien d'autres choses et sujets !
 
 Alors inscrivez-vous à cet événement et venez découvrir tout ça !
+
+:speakers
 
 ### Pitch
 

@@ -2,6 +2,11 @@
 const route = useRoute()
 const { data: page } = await useAsyncData(route.path, () => queryCollection('pages').where('path', '=', route.path).first())
 const { data: events } = await useAsyncData(`${route.path}-events`, () => queryCollection('events').where('path', 'LIKE', route.path+'%').order('date', 'DESC').all())
+
+useSeoMeta({
+  title: page.value?.title,
+  description: page.value?.description
+})
 </script>
 
 <template>
