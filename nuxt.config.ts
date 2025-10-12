@@ -24,6 +24,7 @@ export default defineNuxtConfig({
     icon: {
         clientBundle: {
             icons: [
+                'simple-icons:x',
                 'simple-icons:linkedin',
                 'simple-icons:facebook',
                 'simple-icons:instagram',
