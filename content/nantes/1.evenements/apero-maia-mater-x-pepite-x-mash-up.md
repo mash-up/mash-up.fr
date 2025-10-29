@@ -1,20 +1,19 @@
 ---
-title: Apéro Maia Mater x Pépite x Mash Up
-date: 2019-03-12T00:00:00.000Z
+title: "Apéro Maia Mater x Pépite x Mash Up"
+date: 2019-03-12
 ---
 
 ::steps
-###   :::badge
-  18h45
-  :::
 
-  :::speakers
-  :::
+### :badge[ 18h45 ]
 
-  :::youtube-video{id}
-  :::
 
-### :badge[20h00] Pitch
+
+:speakers
+
+:youtube-video{ id="" }
+
+### :badge[ 20h00 ] Pitch
 
 **Une seule règle : ils avaient 3 minutes pour convaincre, avec une unique slide comme support !**
 
@@ -22,10 +21,10 @@ date: 2019-03-12T00:00:00.000Z
 
 À noter : le concours de pitch était ouvert à tous les projets, sans lien avec le thème de l’événement.
 
-  :::startups{event="Mash Up Nantes #19"}
-  :::
+:startups{ event="Mash Up Nantes #19" }
 
-### :badge[20h30] Cocktail de networking
+### :badge[ 20h30 ] Cocktail de networking
 
 Rencontres informelles autour d’un verre pour favoriser les échanges entre profils variés et encourager la création des pépites nantaises de demain.
+
 ::
