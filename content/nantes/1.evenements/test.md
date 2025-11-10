@@ -1,15 +1,16 @@
 ---
-title: Ok file
-firstname: ok
 seo:
-  title: Ok file gggg
-  description: test
+  title: Ok file
+  description: "ok"
+firstname: ok
 ---
 
-# Ok file
-
-test hhhh
+# {{ $doc.meta.firstname }}
 
 ::card
 ## ok
 ::
+
+Bonjour {{ $doc.meta.firstname }},
+
+**{{ $doc.meta.firstname }}**
