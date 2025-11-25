@@ -5,15 +5,13 @@ date: 2019-03-12
 
 ::steps
 
-### :badge[ 18h45 ]
-
-
+### :badge[18h45]
 
 :speakers
 
-:youtube-video{ id="" }
+:youtube-video{ id="slVRgOT_RZg" }
 
-### :badge[ 20h00 ] Pitch
+### :badge[20h00] Pitch
 
 **Une seule règle : ils avaient 3 minutes pour convaincre, avec une unique slide comme support !**
 
@@ -23,7 +21,7 @@ date: 2019-03-12
 
 :startups{ event="Mash Up Nantes #19" }
 
-### :badge[ 20h30 ] Cocktail de networking
+### :badge[20h30] Cocktail de networking
 
 Rencontres informelles autour d’un verre pour favoriser les échanges entre profils variés et encourager la création des pépites nantaises de demain.
 
