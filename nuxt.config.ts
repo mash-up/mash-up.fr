@@ -6,6 +6,7 @@ export default defineNuxtConfig({
         '@nuxt/ui',
         '@nuxt/content',
         '@nuxt/scripts',
+        'nuxt-studio',
     ],
     css: ['~/assets/css/main.css'],
     fonts: {
@@ -16,9 +17,13 @@ export default defineNuxtConfig({
     ui: {
         colorMode: false
     },
-    content: {
-        preview: {
-            api: 'https://api.nuxt.studio',
+    studio: {
+        route: '/admin',
+        repository: {
+            provider: 'github',
+            owner: 'mash-up',
+            repo: 'mash-up.fr',
+            branch: 'main',
         },
     },
     icon: {
