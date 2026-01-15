@@ -1,0 +1,1 @@
+import{Z as o,q as c,a4 as n,a5 as _,a1 as u,h as i,a6 as p}from"./eT-UD9SM.js";const f=o({__name:"[city]",setup(r){const e=c(),a=n("city");return _(e,t=>{a.value=t.path.slice(1).split("/").shift()},{immediate:!0}),(t,m)=>{const s=p;return i(),u(s)}}});export{f as default};

@@ -1,0 +1,1 @@
+import{x as n,aa as r,c as l,h as p,ac as m,n as u,ab as s}from"./eT-UD9SM.js";const i={base:""},_={__name:"ProseEm",props:{class:{type:String,required:!1}},setup(e){const a=e,t=n(),o=r(()=>s({extend:s(i),...t.ui?.prose?.em||{}}));return(c,f)=>(p(),l("em",{class:u(o.value({class:a.class}))},[m(c.$slots,"default")],2))}};export{_ as default};

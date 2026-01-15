@@ -1,0 +1,1 @@
+import{x as n,aa as l,c as r,h as p,ac as u,n as d,ab as s}from"./eT-UD9SM.js";const i={base:""},b={__name:"ProseTbody",props:{class:{type:null,required:!1}},setup(e){const a=e,o=n(),t=l(()=>s({extend:s(i),...o.ui?.prose?.tbody||{}}));return(c,m)=>(p(),r("tbody",{class:d(t.value({class:a.class}))},[u(c.$slots,"default")],2))}};export{b as default};
